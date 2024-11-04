@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prodian/prodian_internship/MLFlow/mlruns/0/fd08a9dfada94b478c851a615812acdb/artifacts
+end_time: 1730693757965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd08a9dfada94b478c851a615812acdb
+run_name: upbeat-shrew-625
+run_uuid: fd08a9dfada94b478c851a615812acdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730693752147
+status: 3
+tags: []
+user_id: Prodian

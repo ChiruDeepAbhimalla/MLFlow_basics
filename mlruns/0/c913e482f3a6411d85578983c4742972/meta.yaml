@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prodian/prodian_internship/MLFlow/mlruns/0/c913e482f3a6411d85578983c4742972/artifacts
+end_time: 1730693933308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c913e482f3a6411d85578983c4742972
+run_name: upbeat-mouse-906
+run_uuid: c913e482f3a6411d85578983c4742972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730693929154
+status: 3
+tags: []
+user_id: Prodian
